@@ -13,6 +13,7 @@ function Navbar() {
     { id: 3, text: "Skill" },
     { id: 4, text: "Project" },
     { id: 5, text: "Contact" },
+    { id: 6, text: "Hire Me" },
   ];
 
   return (
